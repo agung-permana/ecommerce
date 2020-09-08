@@ -1,0 +1,35 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.kategori img {
+    max-height: 200px;
+    border-radius: 15px;
+}
+
+.kategori .card {
+    border-radius: 15px;
+} 
+
+.produk .card {
+    border-radius: 15px;
+}
+
+.imageProduk {
+    border-radius: 15px 15px 0px 0;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.btn {
+    border-radius: 10px;
+}
