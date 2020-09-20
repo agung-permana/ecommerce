@@ -19,4 +19,4 @@ Auth::routes();
 Route::livewire('/', 'home')->name('home');
 Route::livewire('product', 'product-index')->name('product');
 Route::livewire('product/category/{kategoriId}', 'product-category')->name('product.category');
-Route::livewire('product/{id}', 'product-detail')->name('product.detail');
+Route::livewire('product/{id}', 'product-detail')->name('products.detail');
